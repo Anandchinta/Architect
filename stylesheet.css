@@ -1,0 +1,112 @@
+.bg-image{
+    background-image: url("profile-img.jpg");
+    background-size: cover;
+    height:100vh;
+}
+.heading-text{
+    color:black;
+    font-family: Georgia;
+    font-size: 60px;
+   
+    padding-top: 300px;
+ 
+   
+
+}
+.heading-text1{
+    color:black;
+    font-family: Georgia;
+    font-size: 60px;
+    padding-top: 80px;
+    
+}
+.namelogo{
+    background-color: black;
+    opacity:0.8;
+    color:white;
+    padding:14px;
+    border-radius: 20px;
+
+}
+.heading{
+    font-size: 24px;
+    font-family: Georgia;
+    color:black
+}
+
+.description{
+    font-size: 16px;
+    font-family: Georgia;
+    color:black
+}
+.project-img{
+    background-image: url("project-img.jpg");
+     width:310px;
+     height:55vh;
+    margin:10px;
+    border-radius: 5px;
+   background-size: cover;
+  
+    
+   
+   
+   
+    
+}
+.img-heading{
+background-color: black;
+color:white;
+font-family: Georgia;
+font-size: 14px;
+width:150px;
+height:25px;
+padding-left: 14px;
+padding-top:5px;
+border-radius: 5px;
+
+}
+.position{
+    color:rgb(165, 162, 162); 
+    font-size:20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.manprofile{
+    width:310px;
+    border-radius: 10px;
+}
+.bttn{
+    color: rgb(12, 11, 11);
+    background-color: rgb(236, 241, 236);
+    width:100%;
+    height: 35px;
+    border-width: 0px;
+}
+button:hover{
+    background-color: rgb(151, 148, 148);
+}
+.submit{
+    color:white;
+    background-color: rgb(42, 42, 238);
+    border-width: 0px;
+    width:120px;
+    height:32px;
+    border-radius: 5px;
+}
+.footerimg{
+    padding-bottom:0px;
+    width:100vw;
+
+}
+.footerbg{
+    background-color: black;
+    height:100px;
+    background-size: cover;
+}
+.foottext{
+    font-size: 16px;
+    font-family: Georgia;
+    color:rgb(241, 238, 238);
+    text-align: center;
+    margin-top: 50px;
+}
